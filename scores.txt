@@ -1,0 +1,4 @@
+Vinayak 20
+ABC 10
+Hari 30
+XYZ 40
